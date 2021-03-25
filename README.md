@@ -4,7 +4,7 @@
 
 **Siemens Energy⚡️**: Working Student, Software Development. *Would be so glad to post some stuff that I have been working on, but work restrictions are work restrictions* 🤷‍♂️ 
 
-- 🔭 I’m currently working on | [my bachelor thesis](https://github.com/kostjaigin/bachelor) | *feel free to look inside of it, it's a bit interesting* 🧐
+- 🔭 I’m currently working on | [my bachelor thesis](https://github.com/kostjaigin/bachelor) | I am using Apache Spark for distributed calculations, Kubernetes for deployment and PyTorch for Neural Networks modelling. I will add a more detailed description until 29 April of this year and post my thesis as well. *Feel free to look inside of it, it's a bit interesting* 🧐
 
 Here a small overview of projects I host here:
  - [OCITS_Dgraph](https://github.com/kostjaigin/OCITS_Dgraph): University seminar on distributed systems. Address [the presentation](https://github.com/kostjaigin/OCITS_Dgraph/blob/master/Dgraph_Recommendation.pdf) of [the text summary](https://github.com/kostjaigin/OCITS_Dgraph/blob/master/Implementation_of_Link_Prediction_on_Facebook_Data.pdf) of the seminar for details 😊 
