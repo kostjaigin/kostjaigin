@@ -2,7 +2,7 @@
 
 **TU Berlin**: Computer Sience Bachelor
 
-**Siemens Energy⚡️**: Working Student, Software Development. *Would be so glad to post some stuff that I have been working on, but work restrictions are work restrictions* 🤷‍♂️ 
+**Ebay Classifieds**: Junior Backend Engineer
 
 **Affinity**: fluent in Java 🤖 & Python 🐍, interested in backend processes and data engineering.
 
