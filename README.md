@@ -6,9 +6,8 @@
 
 **Affinity**: fluent in Java 🤖 & Python 🐍, interested in backend processes and data engineering.
 
-- 🔭 I’m currently working on | [my bachelor thesis](https://github.com/kostjaigin/bachelor) | I am using Apache Spark for distributed calculations, Kubernetes for deployment and PyTorch for Neural Networks modelling. 
-
 Here a small overview of projects I host here:
+ - [my bachelor thesis](https://github.com/kostjaigin/bachelor) | I used Apache Spark for distributed calculations, Kubernetes for deployment and PyTorch for Neural Networks modelling. 
  - [OCITS_Dgraph](https://github.com/kostjaigin/OCITS_Dgraph): University seminar on distributed systems. Address [the presentation](https://github.com/kostjaigin/OCITS_Dgraph/blob/master/Dgraph_Recommendation.pdf) of [the text summary](https://github.com/kostjaigin/OCITS_Dgraph/blob/master/Implementation_of_Link_Prediction_on_Facebook_Data.pdf) of the seminar for details 😊 
  - [SpringTestAPI](https://github.com/kostjaigin/SpringTestAPI): My small tutorial based experiments with Spring Boot 
  - [SwiftPlayground](https://github.com/kostjaigin/SwiftPlaygrounds): My experiments field for the Swift Language
