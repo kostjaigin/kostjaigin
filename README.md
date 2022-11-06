@@ -2,9 +2,9 @@
 
 **TU Berlin**: Computer Sience Bachelor
 
-**Ebay Classifieds**: Junior Backend Engineer
+**kleinanzeigen.de**: Junior Backend Engineer
 
-**Affinity**: fluent in Java 🤖 & Python 🐍, interested in backend processes and data engineering.
+**Affinity**: fluent in Java 🤖 & Python 🐍, interested in backend processes, AI and blockchain.
 
 Here a small overview of projects I host here:
  - [my bachelor thesis](https://github.com/kostjaigin/bachelor) | I used Apache Spark for distributed calculations, Kubernetes for deployment and PyTorch for Neural Networks modelling. 
