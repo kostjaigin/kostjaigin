@@ -2,7 +2,7 @@
 
 **TU Berlin**: Computer Sience Bachelor
 
-**kleinanzeigen.de**: Junior Backend Engineer
+**kleinanzeigen.de**: Backend Engineer
 
 **Affinity**: fluent in Java 🤖 & Python 🐍, interested in backend processes, AI and blockchain.
 
