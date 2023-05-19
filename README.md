@@ -2,7 +2,7 @@
 
 **[kleinanzeigen](https://kleinanzeigen.de)**: Backend Engineer
 
-**TU Berlin**: Computer Sience Bachelor
+**TU Berlin**: Computer Science Bachelor
 
 **Tools**: working in Java ☕️, slowly adapting Golang for work. Fluent in Python 🐍. Experienced with Docker, K8S, Kafka, gRPC
 
