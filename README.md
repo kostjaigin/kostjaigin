@@ -23,4 +23,4 @@ Here a small overview of projects I host here:
 - ⚡ Fun fact: ...
 --->
 
-Feel free to connect c: kostjaigin@gmail.com
+Feel free to connect c: [LinkedIn](https://www.linkedin.com/in/konstantin-igin/)
