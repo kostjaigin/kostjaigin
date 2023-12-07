@@ -4,7 +4,7 @@
 
 **TU Berlin**: Computer Science Bachelor
 
-**Tools**: working in Java ☕️, slowly adapting Golang for work. Fluent in Python 🐍. Experienced with Docker, K8S, Kafka, gRPC
+**Tools**: working in Java ☕️ mainly
 
 **Affinity**: AI, Blockchain
 
