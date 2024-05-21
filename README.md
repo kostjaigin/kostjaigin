@@ -1,6 +1,6 @@
 ### Hi-hi 🖖 
 
-**[kleinanzeigen](https://kleinanzeigen.de)**: Backend Engineer
+**[scalable capital](de.scalable.capital)**: Software Engineer
 
 **TU Berlin**: Computer Science Bachelor
 
@@ -12,6 +12,8 @@ Here a small overview of projects I host here:
  - [my bachelor thesis](https://github.com/kostjaigin/bachelor) | I used Apache Spark for distributed calculations, Kubernetes for deployment and PyTorch for Neural Networks modelling. 
  - [OCITS_Dgraph](https://github.com/kostjaigin/OCITS_Dgraph): University seminar on distributed systems. Address [the presentation](https://github.com/kostjaigin/OCITS_Dgraph/blob/master/Dgraph_Recommendation.pdf) of [the text summary](https://github.com/kostjaigin/OCITS_Dgraph/blob/master/Implementation_of_Link_Prediction_on_Facebook_Data.pdf) of the seminar for details 😊 
 
+In the past:
+**[kleinanzeigen](https://kleinanzeigen.de)**: Backend Engineer
 
 <!---
 - 🌱 I’m currently learning: Security with Spring, Apache Spark, Postgres
