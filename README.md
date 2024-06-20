@@ -1,6 +1,6 @@
 ### Hi-hi 🖖 
 
-**[scalable capital](de.scalable.capital)**: Software Engineer
+**[scalable capital](https://de.scalable.capital)**: Software Engineer
 
 **TU Berlin**: Computer Science Bachelor
 
