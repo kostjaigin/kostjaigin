@@ -4,7 +4,7 @@
 
 **TU Berlin**: Computer Science Bachelor
 
-**Tools**: working in Java ☕️ mainly
+**Tools**: working in Kotlin and Java ☕️ mainly
 
 **Affinity**: AI, Blockchain
 
